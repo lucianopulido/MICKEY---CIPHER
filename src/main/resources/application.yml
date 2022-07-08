@@ -1,0 +1,7 @@
+ciphers:
+  mickey:
+    key: 0xab8322676fd1333f160f #80bits = 20 hex digits
+    iv:  0xa7a36548a932c54a0cfc
+
+#imageInput: C:\Users\cance\OneDrive\Escritorio\MICKEY---CIPHER\imagenes\original.bmp
+imageEncrypted: C:\Users\cance\OneDrive\Escritorio\MICKEY---CIPHER\imagenes\encrypted.bmp
